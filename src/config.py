@@ -1,0 +1,3 @@
+PROJECT_NAME = "URBAN-EYE Nexus"
+PROJECT_VERSION = "0.1.0"
+ENVIRONMENT = "development"

@@ -1,0 +1,4 @@
+pytest
+ultralytics
+opencv-python
+lap
