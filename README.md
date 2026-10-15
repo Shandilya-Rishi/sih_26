@@ -1,4 +1,4 @@
-﻿# 🚍 URBAN-EYE Nexus
+﻿# 🚍 URBAN-EYE
 
 ### **Every Bus. Every Road. One Intelligent City.**
 
